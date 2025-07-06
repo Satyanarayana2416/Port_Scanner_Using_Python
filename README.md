@@ -1,6 +1,6 @@
-## 🔍 Port Scanner Using Python | RISE Internship - Tamizan Skills (Cybersecurity)
+## 🔍 Port Scanner Using Python | RISE Internship - Tamizhan Skills (Cybersecurity)
 
-This project is part of my internship at RISE under Tamizan Skills in the Cybersecurity domain. The tool is a lightweight, CLI-based port scanner built using Python.
+This project is part of my internship at RISE under Tamizhan Skills in the Cybersecurity domain. The tool is a lightweight, CLI-based port scanner built using Python.
 
 ### 🔐 Objective:
 Detect open TCP ports on any IP address or domain to support basic vulnerability analysis.
